@@ -4,7 +4,7 @@ from env.environment import OfficeEnv
 from env.models import Action
 
 # Hugging Face API setup
-HF_TOKEN = os.getenv("HF_TOKEN")
+HF_TOKEN = os.getenv("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")
 
 API_URL = "https://api-inference.huggingface.co/models/google/flan-t5-large"
 
